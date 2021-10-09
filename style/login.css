@@ -159,7 +159,7 @@ a{
 }
 
 a:hover{
-	color: #FF7043;
+	color: #6C63FF;
 }
 
 .btn{
@@ -171,7 +171,7 @@ a:hover{
 	font-size: 1.1rem;
 	outline: none;
 	border: none;
-	background-image: linear-gradient(to right, #FF7043, #FF8D43, #FF7043);
+	background-image: linear-gradient(to right, #FF7043, #FF7043, #FF7043);
 	cursor: pointer;
 	color: #fff;
 	text-transform: uppercase;
